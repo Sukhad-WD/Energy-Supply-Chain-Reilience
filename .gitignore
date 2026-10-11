@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+frontend/node_modules/
+frontend/dist/
+
+reports/*.pdf
+Agent1/agent1_output.json
+Agent2/scenario_model_output.json

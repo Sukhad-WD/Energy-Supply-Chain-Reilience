@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #070b0e;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+
+  font-family:
+    Inter,
+    "Segoe UI",
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    sans-serif;
+
+  background:
+    radial-gradient(
+      circle at 75% 5%,
+      rgba(25, 211, 230, 0.045),
+      transparent 30%
+    ),
+    radial-gradient(
+      circle at 15% 40%,
+      rgba(244, 174, 62, 0.025),
+      transparent 30%
+    ),
+    #070b0e;
+
+  color: #e8eef0;
+}
+
+button {
+  font-family: inherit;
+}

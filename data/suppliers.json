@@ -1,0 +1,74 @@
+[
+    {
+        "country": "Saudi Arabia",
+        "supplier": "Saudi Aramco",
+        "cost_per_barrel": 78,
+        "delivery_days": 5,
+        "available_volume": 2500000,
+        "route": "Arabian Sea",
+        "risk": 18
+    },
+    {
+        "country": "UAE",
+        "supplier": "ADNOC",
+        "cost_per_barrel": 80,
+        "delivery_days": 4,
+        "available_volume": 2000000,
+        "route": "Arabian Sea",
+        "risk": 15
+    },
+    {
+        "country": "Russia",
+        "supplier": "Rosneft",
+        "cost_per_barrel": 72,
+        "delivery_days": 16,
+        "available_volume": 4500000,
+        "route": "Baltic Sea",
+        "risk": 42
+    },
+    {
+        "country": "USA",
+        "supplier": "ExxonMobil",
+        "cost_per_barrel": 82,
+        "delivery_days": 21,
+        "available_volume": 5000000,
+        "route": "Atlantic",
+        "risk": 12
+    },
+    {
+        "country": "Brazil",
+        "supplier": "Petrobras",
+        "cost_per_barrel": 79,
+        "delivery_days": 23,
+        "available_volume": 3200000,
+        "route": "Atlantic",
+        "risk": 14
+    },
+    {
+        "country": "Nigeria",
+        "supplier": "NNPC",
+        "cost_per_barrel": 77,
+        "delivery_days": 18,
+        "available_volume": 2200000,
+        "route": "Cape Route",
+        "risk": 28
+    },
+    {
+        "country": "Kuwait",
+        "supplier": "KPC",
+        "cost_per_barrel": 76,
+        "delivery_days": 6,
+        "available_volume": 2700000,
+        "route": "Arabian Sea",
+        "risk": 17
+    },
+    {
+        "country": "Iraq",
+        "supplier": "SOMO",
+        "cost_per_barrel": 74,
+        "delivery_days": 7,
+        "available_volume": 2400000,
+        "route": "Arabian Sea",
+        "risk": 30
+    }
+]

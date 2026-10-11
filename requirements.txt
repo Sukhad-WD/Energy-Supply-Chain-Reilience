@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-google-genai
+reportlab
+pandas
+numpy
+requests
+jinja2
+pydantic
+python-multipart
+feedparser
